@@ -6,3 +6,4 @@ In this tutorial Used String Resource to assign values to Text views.
 -Added values to TextViews  using Design>Attributes and also done manually
 
 Used filters to see the activity life cycle using Logcat
+Note : Use 'lifecycle' keyword to filter activities from others in Logcat
